@@ -351,6 +351,9 @@ class _CreditCardWidgetState extends State<CreditCardWidget>
     CardType.visa: <List<String>>{
       <String>['4'],
     },
+    CardType.verve: <List<String>>{
+      <String>['50'],
+    },
     CardType.americanExpress: <List<String>>{
       <String>['34'],
       <String>['37'],
